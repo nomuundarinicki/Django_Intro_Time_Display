@@ -1,0 +1,18 @@
+#header {
+    width: 40%;
+    margin: auto;
+
+}
+h1{
+    font-size: 1em;
+    border: 2px solid black;
+    height: 50px;
+    width: 250px;
+    text-align: center;
+}
+#time {
+    text-align: center;
+    border: 2px solid black;
+    width: 80%;
+    margin: auto;
+}
